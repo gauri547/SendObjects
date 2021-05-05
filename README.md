@@ -14,10 +14,15 @@ I have learned new features:
 
 ## Application Preview
 
-![image](https://user-images.githubusercontent.com/81371138/117156910-c6390200-addb-11eb-813f-6cb66c955a0a.png)
+![image](https://user-images.githubusercontent.com/81371138/117163005-de5f5000-ade0-11eb-993e-2c7aa58ea35b.png)
 
-![image](https://user-images.githubusercontent.com/81371138/117156998-d650e180-addb-11eb-8bb6-79f8f10456ec.png)
+![image](https://user-images.githubusercontent.com/81371138/117163039-e4553100-ade0-11eb-9a00-f23f0f780c4e.png)
 
-![image](https://user-images.githubusercontent.com/81371138/117157041-dd77ef80-addb-11eb-930e-f3442dfb9af3.png)
+![image](https://user-images.githubusercontent.com/81371138/117163130-fe8f0f00-ade0-11eb-82fa-b6009082e18d.png)
+
+
+
+
+
 
 
