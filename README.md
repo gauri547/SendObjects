@@ -10,7 +10,7 @@ I have learned new features:
 
 ## APK download
 
-[APK](https://github.com/gauri547/SendObjects/releases/download/v7.0/app-debug.apk)
+[APK](https://github.com/imAtulSharma/Sending-Objects/releases/download/v1.0/app-debug.apk)
 
 ## Application Preview
 
