@@ -8,10 +8,6 @@ I have learned new features:
 
 - limiting type of input data
 
-## APK download
-
-[APK](https://github.com/imAtulSharma/Sending-Objects/releases/download/v1.0/app-debug.apk)
-
 ## Application Preview
 
 ![image](https://user-images.githubusercontent.com/81371138/117163005-de5f5000-ade0-11eb-993e-2c7aa58ea35b.png)
