@@ -13,4 +13,8 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <item name="edit_text_3" type="id" />
+    <item name="edit_text_2" type="id" />
+    <item name="edit_text_1" type="id" />
 </resources>
