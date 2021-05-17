@@ -22,8 +22,6 @@ I have learned new features:
 
 
 
-
-
 ## APK
 
 [https://github.com/gauri547/SendObjects/releases/download/v1/app-debug.apk](https://github.com/gauri547/SendObjects/releases/download/v1/app-debug.apk)
